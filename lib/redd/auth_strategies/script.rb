@@ -6,8 +6,8 @@ module Redd
   module AuthStrategies
     # A password-based authentication scheme. Requests all scopes.
     class Script < AuthStrategy
-      def initialize(client_id:, secret:, username:, password:, **kwargs)
-        super(client_id: client_id, secret: secret, **kwargs)
+      def initialize(client_id:, secret:, username:, password:)
+        super(client_id: client_id, secret: secret)
         @username = username
         @password = password
       end
