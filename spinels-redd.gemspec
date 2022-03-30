@@ -26,7 +26,7 @@ Gem::Specification.new do |spec| # rubocop:disable Metrics/BlockLength
 
   spec.add_development_dependency 'bundler', '~> 2.0'
   spec.add_development_dependency 'pry', '~> 0.10'
-  spec.add_development_dependency 'rake', '~> 12.0'
+  spec.add_development_dependency 'rake', '~> 13.0'
   spec.add_development_dependency 'rubocop', '~> 1.26'
   spec.add_development_dependency 'yard', '~> 0.9.9'
 
