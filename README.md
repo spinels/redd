@@ -6,8 +6,8 @@
     <a href="https://rubygems.org/gems/redd">
       <img src="http://img.shields.io/gem/v/redd.svg?style=flat-square" alt="Gem Version">
     </a>
-    <a href="https://travis-ci.org/avinashbot/redd">
-      <img src="http://img.shields.io/travis/avinashbot/redd.svg?style=flat-square" alt="Build Status">
+    <a href="https://github.com/spinels/redd/actions?query=workflow%3ACI">
+      <img src="https://github.com/spinels/redd/workflows/CI/badge.svg?branch=master" alt="Build Status">
     </a>
     <a href="https://rubygems.org/gems/redd">
       <img src="http://img.shields.io/gem/dt/redd.svg?style=flat-square" alt="Gem Downloads">
