@@ -3,14 +3,14 @@
     <!-- Redd -->
     <img src="https://raw.githubusercontent.com/avinashbot/redd/master/logo.png" width="500"><br>
     <!-- Badges -->
-    <a href="https://rubygems.org/gems/redd">
-      <img src="http://img.shields.io/gem/v/redd.svg?style=flat-square" alt="Gem Version">
+    <a href="https://rubygems.org/gems/spinels-redd">
+      <img src="http://img.shields.io/gem/v/spinels-redd.svg?style=flat-square" alt="Gem Version">
     </a>
     <a href="https://github.com/spinels/redd/actions?query=workflow%3ACI">
       <img src="https://github.com/spinels/redd/workflows/CI/badge.svg?branch=master" alt="Build Status">
     </a>
-    <a href="https://rubygems.org/gems/redd">
-      <img src="http://img.shields.io/gem/dt/redd.svg?style=flat-square" alt="Gem Downloads">
+    <a href="https://rubygems.org/gems/spinels-redd">
+      <img src="http://img.shields.io/gem/dt/spinels-redd.svg?style=flat-square" alt="Gem Downloads">
     </a>
   </p>
   <!-- Intro Text -->
